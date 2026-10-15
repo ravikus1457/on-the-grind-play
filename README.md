@@ -2,6 +2,9 @@
 
 Tony Hawk-style skating game by Ravi (Godot 4). This repo only carries playtest downloads; the source lives in a private repo.
 
+## Play in the browser (experimental)
+Open the GitHub Pages site of this repo (https://ravikus1457.github.io/on-the-grind-play/). Chrome or Edge on a desktop, WebGL 2 required; the first load fetches about 46 MB. The browser version uses the Compatibility renderer, so it looks simpler than the Windows build and runs slower; it is for quick tries, the Windows build is the real test.
+
 ## Play on Windows
 1. Download the newest OnTheGrind-<version>-windows.zip from the Releases page.
 2. Unzip anywhere and run OnTheGrind.exe. Windows SmartScreen may warn because the build is unsigned: click "More info" then "Run anyway".
